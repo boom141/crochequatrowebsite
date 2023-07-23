@@ -185,11 +185,33 @@
 
 
 .assurance{
-    margin-top: 45rem;
+    margin-top: 40rem;
     margin-left: 15rem;
-    padding: 0 4rem;
+    padding: 3rem 4rem;
 }
 
 .assurance h1{
     font-size: 4.5rem;
+}
+
+
+
+.footer-section{
+    margin-top: 10rem;
+}
+
+.footer-section h3{
+    border-bottom: 2px solid white;
+    width: fit-content;
+    margin-top: 3rem;
+}
+
+.footer-title{
+    font-family: var(--th-f-headings);
+    font-size: 2rem;
+    border-bottom: none!important;
+}
+
+.email{
+    border: none!important;
 }

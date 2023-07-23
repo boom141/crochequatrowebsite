@@ -121,7 +121,7 @@ const Landing = () => {
                 <img className='ms-5' width="64" height="64" src="https://img.icons8.com/ios/100/537188/coins--v1.png" />
                 <p>Affordable</p>
               </div>
-              <div className='d-flex flex-row column-gap-5 align-items-center'>
+              <div className='d-flex flex-row column-gap-5 align-items-center mt-5'>
                 <img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/537188/communication--v2.png" />
                 <p>24/7 Communication</p>
                 <img width="64" height="64" src="https://img.icons8.com/wired/64/537188/warranty-card.png" />

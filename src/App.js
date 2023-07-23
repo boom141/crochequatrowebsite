@@ -4,6 +4,8 @@ import './static/css/style_config.css';
 
 import Navbar from "./component/Navbar";
 import Landing from "./pages/Landing";
+import Footer from "./component/footer";
+
 
 
 function App() {
@@ -11,6 +13,7 @@ function App() {
     <>
         <Navbar/>
         <Landing />
+        <Footer />
     </>
   );
 }
